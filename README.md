@@ -12,7 +12,7 @@ Welcome to the FastAPI Student Management Project! This project demonstrates the
 ## Usage
 
 1. **Clone the Repository**: `git clone https://github.com/motunmarteen/FastAPI-Student-Management-Project.git`
-2. **Navigate to the Project Directory**: `cd fastapi-student-management`
+2. **Navigate to the Project Directory**: `cd FastAPI-Student-Management-Project`
 3. **Install Dependencies**: `pip install -r requirements.txt`
 4. **Run the FastAPI Server**: `uvicorn main:app --reload`
 5. **Access API Documentation**: Open http://localhost:8000/docs in your browser to view interactive API documentation.
