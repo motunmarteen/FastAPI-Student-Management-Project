@@ -20,10 +20,10 @@ Welcome to the FastAPI Student Management Project! This project demonstrates the
 ## Endpoints
 
 - **POST /students**: Create a new student record.
-- **GET /students/{student_id}**: Retrieve a specific student record by ID.
+- **GET /students/{id}**: Retrieve a specific student record by ID.
 - **GET /students**: Retrieve all student records.
-- **PUT /students/{student_id}**: Update an existing student record by ID.
-- **DELETE /students/{student_id}**: Delete a student record by ID.
+- **PUT /students/{id}**: Update an existing student record by ID.
+- **DELETE /students/{id}**: Delete a student record by ID.
 
 ## Contributions
 
