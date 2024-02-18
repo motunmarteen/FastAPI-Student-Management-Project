@@ -19,6 +19,7 @@ Welcome to the FastAPI Student Management Project! This project demonstrates the
 
 ## Endpoints
 
+- **GET /**: Retrieve students welcome page.
 - **POST /students**: Create a new student record.
 - **GET /students/{id}**: Retrieve a specific student record by ID.
 - **GET /students**: Retrieve all student records.
